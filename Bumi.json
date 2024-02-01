@@ -25,7 +25,7 @@
 		"cities": ["Vriksha","Agni","Jala","Vayu","prithvi","Chandra","Tara","Surya","Parvata",
 			"Nadi","Hiranya","Rajata","Ayas","Swarga","Naraka","","Tamra","Kamsya","Vaidurya",
 			"Samudra","Simha","Sarpa","Bhinneka","Esa","Dwi","Tri","Go","Prasakya","tamas",
-			"Jivana","Mrityu",]
-			       "spyNames": ["Sagara", "Aksa", "Dewantara", "Indra", "Yama",]
+			"Jivana","Mrityu"],
+			       "spyNames": ["Sagara", "Aksa", "Dewantara", "Indra", "Yama"],
 	}
 ]
