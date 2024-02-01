@@ -1,0 +1,31 @@
+[
+	{
+		"name": "Bumi",
+		"leaderName": "Dewa",
+		"adjective": ["Buminian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Your country will become a historical ruin!",
+		"attacked": "I hope you know what you're doing!",
+		"defeated": "you all will pay for this",
+		"introduction": "we are a kingdom built by god",
+		
+		"neutralHello": "How are you doing?",
+		"hateHello": "What do you want now?",
+		
+		"tradeRequest": "can we start a good cooperation?",
+
+		"outerColor": [34,203,231],
+		"innerColor": [34,233,115],
+		"unique": "[+3 Science, +2 Production] per [3] population [in all cities]",
+		"cities": ["Vriksha","Agni","Jala","Vayu","prithvi","Chandra","Tara","Surya","Parvata",
+			"Nadi","Hiranya","Rajata","Ayas","Swarga","Naraka","","Tamra","Kamsya","Vaidurya",
+			"Samudra","Simha","Sarpa","Bhinneka","Esa","Dwi","Tri","Go","Prasakya","tamas",
+			"Jivana","Mrityu",]
+			       "spyNames": ["Sagara", "Aksa", "Dewantara", "Indra", "Yama",]
+	}
+]
